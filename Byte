@@ -1,0 +1,25 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+signed   char c=0;
+   for(int i=0;i<300;i++)
+   {
+    cout<<(int)c<<endl;
+    c++;
+   }
+}
+
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+   char c=150;
+   cout<<(int)c<<endl;
+   
+}
